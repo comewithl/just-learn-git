@@ -10,4 +10,4 @@ while 1:
     for i in range(1,k):
         if math.sqrt(r-i**2)==int(math.sqrt(r-i**2)):
             num=num+4
-    print num
+    print num+1
